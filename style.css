@@ -83,7 +83,7 @@ body{
   text-align: center;
   color: #fff;
   overflow: hidden;
-  background: url("../img_/Steph%20Curry%20pic.jpg") center center / cover no-repeat;
+  background: url("Steph\ Curry\ pic.jpg") center center / cover no-repeat;
 }
 .hero-section .container{ position: relative; z-index: 2; padding-top: 100px; }
 .hero-overlay{ position: absolute; inset: 0; background: rgba(0,0,0,.55); z-index: 1; }
